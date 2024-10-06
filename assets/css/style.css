@@ -181,7 +181,7 @@ left: 17%;
     color: white;
 }
 .background-image {
-    background-image: url('/assets/images/bg4.webp');
+    background-image: url('../images/bg4.webp');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -301,7 +301,7 @@ left: 17%;
     color: white;
 }
 .upper-foot{
-    background-image: url('/assets/images/footer-bg.webp');
+    background-image: url('../images/footer-bg.webp');
 }
 .newsletter button{
     background-color:var(--primary-color);
@@ -444,7 +444,7 @@ margin-bottom: 0;
     box-shadow: 0 15px 44px 0px rgba(171, 171, 171, 0.1);
 }
 .services-card:hover{
-    background: url('/assets/images/services.webp') center/cover no-repeat;
+    background: url('../images/services.webp') center/cover no-repeat;
     transition: all 0.4s ease-in-out;
 }
 .services-card:hover h3,.services-card:hover p{
@@ -497,7 +497,7 @@ margin-bottom: 0;
     color:var(--primary-color);
 }
 .blog-content:hover{
-    background: url('/assets/images/4\ \(2\).webp') center/cover no-repeat;
+    background: url('../images/4\ \(2\).webp') center/cover no-repeat;
 }
 .blog-content:hover h2,.blog-content:hover p,.blog-content:hover span,.blog-content:hover span i{
     color: white;
@@ -562,7 +562,7 @@ margin-bottom: 0;
     background-position: center;
 }
 .Portfolio-img::after{
-    background:url('/assets/images/arrow.webp')no-repeat;
+    background:url('../images/arrow.webp')no-repeat;
     background-position: center;
 }
 .all-port:hover .Portfolio-img::before{
@@ -617,7 +617,7 @@ margin-bottom: 0;
     overflow: hidden;
 }
 .contactus{
-    background: url('/assets/images/contact-us.webp') center/cover no-repeat fixed;
+    background: url('../images/contact-us.webp') center/cover no-repeat fixed;
     position: relative;
     height: 100%;
 }
@@ -653,7 +653,7 @@ input:focus,textarea:focus{
     position: relative;
 }
 .quality{
-    background: url('/assets/images/red.webp');
+    background: url('../images/red.webp');
     position: relative;
     background-attachment: scroll;
     background-position: top center;
